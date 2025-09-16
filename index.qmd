@@ -15,7 +15,7 @@ library(usethis)
 #usethis::use_github()
 
 
-install.packages("pak")
+#install.packages("pak")
 
 #pak::pak(c("usethis", "pointblank", "logger", "nanoparquet", "rsconnect", "shiny"))
 

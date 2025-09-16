@@ -4,3 +4,15 @@
 .httr-oauth
 .DS_Store
 .quarto
+index_files/libs/quarto-html/tippy.css
+.gitignore
+index_files/libs/quarto-html/tabsets/tabsets.js
+.gitignore
+index_files/libs/quarto-html/quarto.js
+index_files/libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css
+index_files/libs/quarto-html/popper.min.js
+.gitignore
+index_files/libs/clipboard/clipboard.min.js
+index_files/libs/bootstrap/bootstrap-icons.woff
+.gitignore
+index_files/libs/bootstrap/bootstrap-81267100e462c21b3d6c0d5bf76a3417.min.css
