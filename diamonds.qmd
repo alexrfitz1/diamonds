@@ -8,5 +8,12 @@ format: html
 
 usethis::use_git()
 
+library(usethis)
+
+# Set Git configuration
+use_git_config(user.name = "alexrfitz1", 
+               user.email = "afitz@jnanatx.com")
+
+usethis::use_git()
 
 ```
